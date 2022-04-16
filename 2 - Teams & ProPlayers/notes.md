@@ -1,7 +1,11 @@
-1) https://archive.esportsobserver.com/every-esports-player-needs-contract/
-2) https://kotaku.com/worlds-best-smash-4-player-is-worn-down-by-haters-and-h-1819677035
-3) https://www.theguardian.com/technology/2016/jan/28/my-dream-to-become-pro-gamer-ended-in-utter-failure
-4) https://www.youtube.com/watch?v=lVfU6YojLsQ
+**links**
+
+1. https://archive.esportsobserver.com/every-esports-player-needs-contract/
+2. https://kotaku.com/worlds-best-smash-4-player-is-worn-down-by-haters-and-h-1819677035
+3. https://www.theguardian.com/technology/2016/jan/28/my-dream-to-become-pro-gamer-ended-in-utter-failure
+4. https://www.youtube.com/watch?v=lVfU6YojLsQ
+
+---
 
 No matter how good you are during your Sunday kickabouts in the park or your weekly squash matches, winning them won’t see you steadily rise up the ranks, eventually taking on the best in the world for prestige and glory. But in gaming, they can.
 
@@ -16,4 +20,3 @@ I mean, what is the definition of the word professional? It’s somebody who doe
 The top four streams will make 95%
 
 streaming to Twitch isn’t as easy as people such as Reynad make it seem. Even simply getting on the platform isn’t as easy as it could be, because it requires expensive software and a modestly powerful computer.
-
